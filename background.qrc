@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>.qtcreator/jumanji.jpg</file>
+        <file>.qtcreator/avatar.jpg</file>
+        <file>.qtcreator/newavatar.jpeg</file>
+        <file>.qtcreator/avatar-eoaiyd4amdhnf8id.jpg</file>
+        <file>.qtcreator/photo-1485795959911-ea5ebf41b6ae.avif</file>
+        <file>.qtcreator/f342f883f37657499c5266aa93714156.jpg</file>
+        <file>.qtcreator/download.png</file>
+        <file>.qtcreator/Screenshot 2025-12-25 212104.png</file>
+        <file>.qtcreator/thumb-1920-1398872.jpg</file>
+        <file>.qtcreator/tom.webp</file>
+        <file>.qtcreator/sole.jpeg</file>
+        <file>.qtcreator/angry-birds-dark-5k-nf.jpg</file>
+        <file>.qtcreator/nemo.jpg</file>
+        <file>.qtcreator/wp2825279.jpg</file>
+        <file>.qtcreator/desktop-wallpaper-disney-pixar-movies-disney-br-pinterest-soul-pixar.jpg</file>
+        <file>.qtcreator/angry-birds-bomb-minimal-5k-sa.jpg</file>
+        <file>.qtcreator/angry-birds-2016-wallpaper-preview.jpg</file>
+        <file>.qtcreator/424584-Angry_Birds-movies-red-748x421.jpg</file>
+        <file>.qtcreator/HD-wallpaper-angry-birds-animation-black-cartoon-games-red.jpg</file>
+    </qresource>
+</RCC>
