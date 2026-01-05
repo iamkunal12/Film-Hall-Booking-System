@@ -1,0 +1,24 @@
+#qmake / Qt 
+build-*
+*.pro.user
+*.user
+*.autosave
+*.qmake.stash
+
+#Object / binary files
+*.o
+*.obj
+*.exe
+
+#Debug / Release folders
+debug/
+release/
+
+#CMake leftovers (ignore if present)
+CMakeFiles/
+CMakeCache.txt
+Makefile
+
+#OS files
+.DS_Store
+Thumbs.db
